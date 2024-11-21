@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @christianwolird
-- 👀 I’m interested in ... plants, speedruns, and languages.
-- 🌱 I’m currently learning ... game dev.
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+
